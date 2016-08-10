@@ -1,0 +1,4 @@
+html/system/storage/cache/*
+html/system/storage/logs/*
+html/vqmod/logs/*
+html/image/cache/*
